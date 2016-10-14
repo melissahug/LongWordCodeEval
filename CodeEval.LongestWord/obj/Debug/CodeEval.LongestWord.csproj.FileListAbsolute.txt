@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval.LongestWord\CodeEval.LongestWord\bin\Debug\CodeEval.LongestWord.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval.LongestWord\CodeEval.LongestWord\bin\Debug\CodeEval.LongestWord.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval.LongestWord\CodeEval.LongestWord\bin\Debug\CodeEval.LongestWord.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval.LongestWord\CodeEval.LongestWord\obj\Debug\CodeEval.LongestWord.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval.LongestWord\CodeEval.LongestWord\obj\Debug\CodeEval.LongestWord.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval.LongestWord\CodeEval.LongestWord\obj\Debug\CodeEval.LongestWord.pdb
